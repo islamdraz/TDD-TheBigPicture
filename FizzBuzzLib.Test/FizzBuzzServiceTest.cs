@@ -1,8 +1,7 @@
-using System;
-using FizzBuzz.lib;
+using TDD.Dll;
 using Xunit;
 
-namespace FizzBuzzLib.Test
+namespace TddDll.Test
 {
     public class FizzBuzzServiceTest
     {

@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FizzBuzz.lib
+﻿namespace TDD.Dll
 {
     public class FizzBuzzService
     {

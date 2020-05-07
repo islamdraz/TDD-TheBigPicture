@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FizzBuzz.lib\FizzBuzz.lib.csproj" />
+    <ProjectReference Include="..\FizzBuzz.lib\TDD.Dll.csproj" />
   </ItemGroup>
 
 </Project>
