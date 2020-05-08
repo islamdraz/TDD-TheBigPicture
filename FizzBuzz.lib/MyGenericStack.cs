@@ -4,7 +4,7 @@ namespace TDD.Dll
 {
     public class MyGenericStack<T>
     {
-        private List<T> _items;
+        private readonly List<T> _items;
 
 
         public MyGenericStack()
